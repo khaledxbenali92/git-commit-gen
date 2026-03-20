@@ -1,0 +1,9 @@
+# Core — zero required dependencies (rule-based mode works out of the box)
+
+# Optional — for AI-powered mode
+openai>=1.0.0          # pip install openai (for --provider openai)
+requests>=2.31.0       # pip install requests (for --provider ollama)
+
+# Optional — for development
+pytest>=7.0.0
+pytest-cov>=4.0.0
