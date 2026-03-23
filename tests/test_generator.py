@@ -1,7 +1,3 @@
-"""
-Tests for git-commit-gen
-"""
-
 import pytest
 from src.analyzers.diff_analyzer import DiffAnalyzer
 from src.generators.conventional import ConventionalGenerator
