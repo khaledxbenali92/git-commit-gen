@@ -1,8 +1,4 @@
 #!/usr/bin/env python3
-"""
-⚡ git-commit-gen — AI-powered Git Commit Message Generator
-Generate perfect conventional commit messages from your staged changes
-"""
 
 import sys
 import argparse
